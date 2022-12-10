@@ -1,10 +1,10 @@
 👋 Hi, I’m Abrar Ahmed -> @abrar2030
 
 - 👀 I’m interested in
-Data Science,
-Machine Learning,
-Deep Learning,
-Problem Solving
+-   Data Science,
+-   Machine Learning,
+-   Deep Learning,
+-   Problem Solving
 
 
 - 🌱 I’m currently learning
