@@ -1,16 +1,24 @@
-### Hi there 👋
+👋 Hi, I’m Abrar Ahmed -> @abrar2030
+- 
+- 👀 I’m interested in
+- 
+- Data Science,
+- Machine Learning,
+- Deep Learning,
+- Problem Solving
 
-<!--
-**abrar2030/abrar2030** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌱 I’m currently learning
+- 
+- Artificial Intelligence Algorithms
+- Machine Learning,
+- Deep Learning
+- 
+- 💞️ I’m looking to collaborate on
+- C,           C++ , 
+- C#,          JAVA  
+- Python
+     
+- 📫 How to reach me
+- 
+- LinkedIn: https://www.linkedin.com/in/abrar2030/
+- Email: abrarahmedbdp@gmail.com
