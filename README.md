@@ -1,5 +1,4 @@
-👋 Hi, I’m Abrar Ahmed (@abrar2030), a computer science student specializing in C++ and Java software development, with a keen interest in 
-CI/CD, Docker, and Kubernetes.
+👋 Hi, I’m Abrar Ahmed (@abrar2030), a Computer Science student.
 
 👀 I’m interested in:
 - C++ programming
