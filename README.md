@@ -31,5 +31,5 @@ Feel free to explore my GitHub profile and reach out to me for any collaboration
      
  📫 How to reach me
 -  -->	LinkedIn: https://www.linkedin.com/in/abrar2030/
--  -->	Email: abrarahmedbdp@gmail.com
+-  -->	Email: abrarahmedpei@gmail.com
 
