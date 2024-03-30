@@ -31,5 +31,3 @@ Greetings, I’m Abrar Ahmed, an aspiring Computer Science intern currently purs
 - **DevOps and CI/CD Implementation:** Keen on contributing to projects focusing on DevOps practices, CI/CD implementation, and infrastructure automation to enhance software delivery efficiency.
   
 - **Containerization and Orchestration:** Excited about participating in projects involving Docker containerization and Kubernetes orchestration, aiming to build scalable and resilient cloud-native applications.
-
-I invite you to review my GitHub profile and welcome discussions or collaboration opportunities related to Java, Python, DevOps, CI/CD, Docker, or Kubernetes. I'm eager to contribute my skills and learn from experienced professionals to further my growth as an intern in the field of Computer Science.
