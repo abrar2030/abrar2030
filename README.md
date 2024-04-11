@@ -1,33 +1,28 @@
-Greetings, I’m Abrar Ahmed, an aspiring Computer Science intern currently pursuing my degree at Eötvös Loránd University in Budapest, Hungary.
+Greetings! I'm Abrar Ahmed, a dedicated Computer Science professional currently contributing to the dynamic field of technology while employed at Ericsson for the past nine months. My academic background includes studies at Eötvös Loránd University in Budapest, Hungary.
 
-👀 Areas of Interest:
+### Areas of Expertise:
 
-- **Java and Python Development:** Proficient in Java, with a focus on Spring Boot 3 framework, and adept at Python for its versatility in various project scopes.
-  
-- **Object-Oriented Design:** Skilled in crafting robust class hierarchies and applying object-oriented principles to ensure scalable and maintainable codebases.
-  
-- **Software Architecture:** Knowledgeable in the principles of software architecture, specializing in designing and implementing efficient and scalable software solutions.
-  
-- **CI/CD Implementation:** Experienced in setting up Continuous Integration and Continuous Deployment pipelines using tools like Jenkins and Spinnaker, automating software delivery processes.
-  
-- **Containerization and Orchestration:** Proficient in Docker for containerization and Kubernetes for orchestration, ensuring smooth deployment and management of containerized applications.
+- **DevOps Practices:** Proficient in implementing DevOps methodologies to optimize software development and deployment processes. Skilled in setting up Continuous Integration and Continuous Deployment pipelines using industry-standard tools like Jenkins and Spinnaker.
 
-🌱 Current Learning Focus:
+- **Java Spring Framework:** Seasoned in utilizing the Java Spring framework to develop robust and scalable backend microservices, ensuring high performance and maintainability.
 
-- **Advanced Java Concepts:** Exploring advanced Java concepts such as concurrent programming and design patterns to develop more sophisticated solutions.
-  
-- **Python Development:** Enhancing proficiency in Python for various applications including scripting, automation, and web development.
-  
-- **Docker and Kubernetes:** Deepening understanding of Docker containerization and Kubernetes orchestration for building and managing scalable and resilient microservices architectures.
-  
-- **Software Engineering Practices:** Continuously learning and applying software engineering best practices to ensure high code quality, reliability, and maintainability.
-  
-- **DevOps Practices:** Further exploring DevOps methodologies and tools to streamline software development and deployment processes.
+- **JavaScript (Angular) Frontend Development:** Proficient in Angular for frontend development, crafting intuitive and responsive user interfaces for microservices-based applications.
 
-💼 Collaboration Interests:
+- **Containerization and Orchestration:** Experienced in containerization with Docker, orchestration with Kubernetes, and package management with Helm, ensuring efficient deployment and management of containerized applications in cloud-native environments.
 
-- **Java and Python Development:** Interested in collaborating on projects that utilize Java or Python for software development, spanning from web applications to data processing pipelines.
-  
-- **DevOps and CI/CD Implementation:** Keen on contributing to projects focusing on DevOps practices, CI/CD implementation, and infrastructure automation to enhance software delivery efficiency.
-  
-- **Containerization and Orchestration:** Excited about participating in projects involving Docker containerization and Kubernetes orchestration, aiming to build scalable and resilient cloud-native applications.
+### Current Focus Areas:
+
+- **Advanced DevOps Techniques:** Actively exploring advanced DevOps methodologies to optimize software delivery pipelines, with a particular focus on microservices architectures.
+
+- **Cloud-Native Technologies:** Deepening understanding of cloud-native technologies to leverage scalability and flexibility in microservices-based software development and deployment.
+
+- **Infrastructure as Code (IaC):** Enhancing proficiency in Infrastructure as Code practices using tools like Terraform or Ansible to automate infrastructure provisioning and management, with a focus on microservices environments.
+
+### Collaboration Interests:
+
+- **DevOps Implementation for Microservices:** Interested in collaborating on projects focused on implementing DevOps practices tailored for microservices architectures, including CI/CD pipelines, infrastructure automation, and containerization orchestration.
+
+- **Java Spring Backend Development:** Excited about participating in projects involving Java Spring framework for backend microservices development, ensuring scalability, reliability, and performance.
+
+- **Angular Frontend Development:** Open to contributing to projects related to Angular frontend development for microservices-based applications, with a focus on delivering seamless user experiences.
+
