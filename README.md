@@ -1,4 +1,4 @@
-Greetings! I'm Abrar Ahmed, a dedicated Computer Science professional currently contributing to the dynamic field of technology while employed at Ericsson for the past nine months. My academic background includes studies at Eötvös Loránd University in Budapest, Hungary.
+Greetings! I'm Abrar Ahmed, a dedicated Computer Science professional currently contributing to the dynamic field of technology while employed at Ericsson for the past one year. My academic background includes studies at Eötvös Loránd University in Budapest, Hungary.
 
 ### Areas of Expertise:
 
