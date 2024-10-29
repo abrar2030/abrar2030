@@ -24,5 +24,5 @@ Greetings! I'm Abrar Ahmed, a dedicated Computer Science professional currently 
 
 - **Java Spring Backend Development:** Excited about participating in projects involving Java Spring framework for backend microservices development, ensuring scalability, reliability, and performance.
 
-- **Angular Frontend Development:** Open to contributing to projects related to Angular frontend development for microservices-based applications, with a focus on delivering seamless user experiences.
+- **Angular/React Frontend Development:** Open to contributing to projects related to Angular frontend development for microservices-based applications, with a focus on delivering seamless user experiences.
 
