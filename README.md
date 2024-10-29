@@ -6,7 +6,7 @@ Greetings! I'm Abrar Ahmed, a dedicated Computer Science professional currently 
 
 - **Java Spring Framework:** Seasoned in utilizing the Java Spring framework to develop robust and scalable backend microservices, ensuring high performance and maintainability.
 
-- **JavaScript (Angular) Frontend Development:** Proficient in Angular for frontend development, crafting intuitive and responsive user interfaces for microservices-based applications.
+- **JavaScript (Angular/React) Frontend Development:** Proficient in Angular and React for frontend development, crafting intuitive and responsive user interfaces for microservices-based applications.
 
 - **Containerization and Orchestration:** Experienced in containerization with Docker, orchestration with Kubernetes, and package management with Helm, ensuring efficient deployment and management of containerized applications in cloud-native environments.
 
