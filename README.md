@@ -1,16 +1,4 @@
 <h1 align="center">Hi 👋, I'm Abrar Ahmed</h1>
-- 🔭 I’m currently working on **Cloud-Native DevOps Automation**
-
-- 🌱 I’m currently learning **Cloud-Native Technologies, Kubernetes, Advanced DevOps Automation**
-
-- 👯 I’m looking to collaborate on **DevOps Projects**
-
-- 👨‍💻 All of my projects are available at [https://abrar2030.github.io/Portfolio/](https://abrar2030.github.io/Portfolio/)
-
-- 💬 Ask me about **DevOps, Kubernetes, Angular, React**
-
-- ⚡ Fun fact **I automate everything, even my coffee brewing process!**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/abrar2o3o" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="abrar2o3o" height="30" width="40" /></a>
@@ -26,4 +14,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abrar2030&show_icons=true&locale=en&layout=compact" alt="abrar2030" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abrar2030&show_icons=true&locale=en" alt="abrar2030" /></p>
-
