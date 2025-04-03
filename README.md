@@ -64,7 +64,7 @@
   
   <br>
   
-  ![Yearly Commits](https://img.shields.io/badge/2023_Commits-1572-blueviolet?style=for-the-badge&logo=github)
+  ![Yearly Commits](https://img.shields.io/badge/dynamic/json?color=blueviolet&label=2025%20Commits&query=total&url=https://api.github-star-counter.workers.dev/user/abrar2030)
 
 </div>
 
@@ -84,5 +84,5 @@
 ---
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/abrar2030/abrar2030/main/snake.svg" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </div>
