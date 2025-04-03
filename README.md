@@ -6,9 +6,9 @@
 
 ## 🔧 Technical Arsenal
 
-<div align="center" style="display: flex; justify-content: center; gap: 2rem;">
-  <!-- Left Column -->
-  <div style="flex: 0 0 45%; text-align: left;">
+<div style="display: flex; justify-content: center; gap: 2rem;">
+  <!-- Left Column: Programming Languages & Cloud DevOps -->
+  <div style="flex: 1; min-width: 300px; text-align: left;">
     <h3>⌨️ Programming Languages</h3>
     <p>
       <img src="https://skillicons.dev/icons?i=java,python,js,ts" alt="Programming Languages" />
@@ -20,8 +20,8 @@
     </p>
   </div>
 
-  <!-- Right Column -->
-  <div style="flex: 0 0 45%; text-align: left;">
+  <!-- Right Column: Frameworks & Libraries & CI/CD -->
+  <div style="flex: 1; min-width: 300px; text-align: left;">
     <h3>🧩 Frameworks & Libraries</h3>
     <p>
       <img src="https://skillicons.dev/icons?i=spring,dotnet,angular,react" alt="Frameworks & Libraries" />
