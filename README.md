@@ -3,7 +3,6 @@
 <div>&nbsp;</div>
 <div>
   <img align="right" alt="Coding" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
-
 </div>
 
 ## Connect with me
