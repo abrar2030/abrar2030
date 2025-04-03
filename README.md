@@ -7,24 +7,44 @@
 ## 🔧 Technical Arsenal
 
 ### ⌨️ **Programming Languages**
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=java,python,js,ts" alt="Programming Languages" />
-</p>
+<div align="center" style="display: flex; justify-content: space-between; gap: 1rem;">
+  <div>
+    <img src="https://skillicons.dev/icons?i=java,python" alt="Java Python" />
+  </div>
+  <div>
+    <img src="https://skillicons.dev/icons?i=js,ts" alt="JS TS" />
+  </div>
+</div>
 
 ### 🧩 **Frameworks & Libraries**
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=spring,dotnet,angular,react" alt="Frameworks" />
-</p>
+<div align="center" style="display: flex; justify-content: space-between; gap: 1rem;">
+  <div>
+    <img src="https://skillicons.dev/icons?i=spring,dotnet" alt="Spring .NET" />
+  </div>
+  <div>
+    <img src="https://skillicons.dev/icons?i=angular,react" alt="Angular React" />
+  </div>
+</div>
 
 ### ☁️ **Cloud & DevOps**
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=aws,gcp,kubernetes,docker,terraform" alt="Cloud DevOps" />
-</p>
+<div align="center" style="display: flex; justify-content: space-between; gap: 1rem;">
+  <div>
+    <img src="https://skillicons.dev/icons?i=aws,gcp,kubernetes" alt="AWS GCP Kubernetes" />
+  </div>
+  <div>
+    <img src="https://skillicons.dev/icons?i=docker,terraform" alt="Docker Terraform" />
+  </div>
+</div>
 
 ### 🚀 **CI/CD & Automation**
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=jenkins,githubactions,ansible" alt="CI/CD" />
-</p>
+<div align="center" style="display: flex; justify-content: space-between; gap: 1rem;">
+  <div>
+    <img src="https://skillicons.dev/icons?i=jenkins,githubactions" alt="Jenkins GitHub Actions" />
+  </div>
+  <div>
+    <img src="https://skillicons.dev/icons?i=ansible" alt="Ansible" />
+  </div>
+</div>
 
 ---
 
@@ -36,7 +56,7 @@
   
   <br>
   
-  <div>
+  <div style="display: flex; gap: 1rem; justify-content: center;">
     <img width="45%" src="https://github-readme-stats.vercel.app/api?username=abrar2030&show_icons=true&theme=nightowl&count_private=true&include_all_commits=true&hide_border=true" />
     <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abrar2030&layout=compact&theme=nightowl&hide_border=true&langs_count=8" />
   </div>
