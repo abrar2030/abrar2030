@@ -6,32 +6,36 @@
 
 ## 🔧 Technical Arsenal
 
-<div style="display: flex; justify-content: center; gap: 2rem;">
-  <!-- Left Column: Programming Languages & Cloud DevOps -->
-  <div style="flex: 1; min-width: 300px; text-align: left;">
-    <h3>⌨️ Programming Languages</h3>
-    <p>
-      <img src="https://skillicons.dev/icons?i=java,python,js,ts" alt="Programming Languages" />
-    </p>
-    
-    <h3>☁️ Cloud & DevOps</h3>
-    <p>
-      <img src="https://skillicons.dev/icons?i=aws,gcp,kubernetes,docker,terraform" alt="Cloud & DevOps" />
-    </p>
-  </div>
+<div align="center" style="display: grid; grid-template-columns: 1fr 1fr; gap: 2rem; justify-items: center; align-items: start;">
 
-  <!-- Right Column: Frameworks & Libraries & CI/CD -->
-  <div style="flex: 1; min-width: 300px; text-align: left;">
-    <h3>🧩 Frameworks & Libraries</h3>
-    <p>
-      <img src="https://skillicons.dev/icons?i=spring,dotnet,angular,react" alt="Frameworks & Libraries" />
-    </p>
-    
-    <h3>🚀 CI/CD & Automation</h3>
-    <p>
-      <img src="https://skillicons.dev/icons?i=jenkins,githubactions,ansible" alt="CI/CD & Automation" />
-    </p>
-  </div>
+### Left Column
+<div style="text-align: left; width: 100%;">
+
+#### ⌨️ **Programming Languages**
+  <p>
+    <img src="https://skillicons.dev/icons?i=java,python,js,ts" alt="Programming Languages" />
+  </p>
+
+#### ☁️ **Cloud & DevOps**
+  <p>
+    <img src="https://skillicons.dev/icons?i=aws,gcp,kubernetes,docker,terraform" alt="Cloud DevOps" />
+  </p>
+</div>
+
+### Right Column
+<div style="text-align: left; width: 100%;">
+
+#### 🧩 **Frameworks & Libraries**
+  <p>
+    <img src="https://skillicons.dev/icons?i=spring,dotnet,angular,react" alt="Frameworks" />
+  </p>
+
+#### 🚀 **CI/CD & Automation**
+  <p>
+    <img src="https://skillicons.dev/icons?i=jenkins,githubactions,ansible" alt="CI/CD" />
+  </p>
+</div>
+
 </div>
 
 ---
@@ -39,21 +43,27 @@
 ## 📊 GitHub Analytics
 
 <div align="center">
+  
   ![Profile Views](https://komarev.com/ghpvc/?username=abrar2030&color=000000&label=PROFILE+VIEWS&style=for-the-badge)
+  
   <br>
-  <div style="display: flex; gap: 1rem; justify-content: center;">
+  
+  <div style="display: flex; gap: 1rem; justify-content: center; flex-wrap: wrap;">
     <img width="45%" src="https://github-readme-stats.vercel.app/api?username=abrar2030&show_icons=true&theme=nightowl&count_private=true&include_all_commits=true&hide_border=true" />
     <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abrar2030&layout=compact&theme=nightowl&hide_border=true&langs_count=8" />
   </div>
+  
   <br>
+  
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=abrar2030&theme=nightowl&hide_border=true" />
+  
   <br>
+  
 </div>
 
 ---
 
 ## 🌐 Let's Connect
-
 <p align="left">
   <a href="https://linkedin.com/in/abrar2030" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" height="40" />
