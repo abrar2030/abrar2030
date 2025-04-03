@@ -8,12 +8,10 @@
 
 ### ⌨️ **Programming Languages**
 <p>
-  <img src="https://img.shields.io/badge/JavaScript-45.73%25-yellow?style=flat&logo=javascript" />
-  <img src="https://img.shields.io/badge/TypeScript-17.64%25-blue?style=flat&logo=typescript" />
-  <img src="https://img.shields.io/badge/CSS-16.36%25-purple?style=flat&logo=css3" />
-  <img src="https://img.shields.io/badge/HTML-9.74%25-orange?style=flat&logo=html5" />
-  <img src="https://img.shields.io/badge/Java-5.68%25-red?style=flat&logo=java" />
-  <img src="https://img.shields.io/badge/PHP-4.84%25-777BB4?style=flat&logo=php" />
+  <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
+  <img src="https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
+  <img src="https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" />
 </p>
 
 ### 🧩 **Frameworks & Libraries**
@@ -24,42 +22,49 @@
   <img src="https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
 </p>
 
+### ☁️ **Cloud & DevOps**
+<p>
+  <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" />
+  <img src="https://img.shields.io/badge/GCP-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white" />
+</p>
+
+### 🚀 **CI/CD & Automation**
+<p>
+  <img src="https://img.shields.io/badge/Jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub_Actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white" />
+  <img src="https://img.shields.io/badge/Argo_CD-%23EF7B4D.svg?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Ansible-%231A1918.svg?style=for-the-badge&logo=ansible&logoColor=white" />
+</p>
+
 ---
 
 ## 📊 GitHub Analytics
 
 <div align="center">
   
-  ![Profile Views](https://komarev.com/ghpvc/?username=abrar2030&color=00F7FF&label=PROFILE+VIEWS&style=for-the-badge&labelColor=000000)
+  ![Profile Views](https://komarev.com/ghpvc/?username=abrar2030&color=00F7FF&label=PROFILE+VIEWS&style=for-the-badge)
   
   <br>
   
-  <div style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 1rem;">
-    <div>
-      <img width="100%" src="https://github-readme-stats.vercel.app/api?username=abrar2030&show_icons=true&theme=nightowl&count_private=true&include_all_commits=true&hide_border=true" />
-    </div>
-    <div>
-      <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abrar2030&layout=compact&theme=nightowl&hide_border=true&langs_count=6" />
-    </div>
+  <div>
+    <img width="45%" src="https://github-readme-stats.vercel.app/api?username=abrar2030&show_icons=true&theme=nightowl&count_private=true&include_all_commits=true&hide_border=true" />
+    <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abrar2030&layout=compact&theme=nightowl&hide_border=true&langs_count=8" />
   </div>
-
+  
   <br>
-
-  <div style="display: grid; grid-template-columns: repeat(3, 1fr); gap: 1rem; margin: 1rem 0;">
-    <div>
-      ![Total Stars](https://img.shields.io/badge/Stars-3-blue?style=for-the-badge)
-    </div>
-    <div>
-      ![2025 Commits](https://img.shields.io/badge/2025_Commits-423-green?style=for-the-badge)
-    </div>
-    <div>
-      ![Pull Requests](https://img.shields.io/badge/PRs-44-orange?style=for-the-badge)
-    </div>
-  </div>
-
+  
   ![Commit Calendar](https://github-readme-activity-graph.vercel.app/graph?username=abrar2030&theme=react-dark&hide_border=true&area=true&custom_title=Commit+Calendar)
-
+  
+  <br>
+  
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=abrar2030&theme=nightowl&hide_border=true" />
+  
+  <br>
+  
+  ![Yearly Commits](https://img.shields.io/badge/dynamic/json?color=blueviolet&label=2025%20Commits&query=total&url=https://api.github-star-counter.workers.dev/user/abrar2030)
 
 </div>
 
