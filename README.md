@@ -56,8 +56,6 @@
   
   <br>
   
-  ![Yearly Commits](https://img.shields.io/badge/dynamic/json?color=blueviolet&label=2025%20Commits&query=total&url=https://api.github-star-counter.workers.dev/user/abrar2030)
-
 </div>
 
 ---
