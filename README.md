@@ -7,7 +7,7 @@
 
 🌱 I’m exploring different areas of interest in tech and beyond
 
-👯 I’m looking to collaborate on software development
+👯 I’m excited about new challenges and opportunities
 
 ⚡ Fun fact: I enjoy solving complex problems with simple solutions
 
