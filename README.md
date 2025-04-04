@@ -9,7 +9,7 @@
 
 👯 I’m excited about new challenges and opportunities
 
-⚡ Fun fact: I enjoy solving complex problems with simple solutions
+⚡ Fun fact: I love mapping real-world systems into software
 
 📫 How to reach me: abrarahmedpei@gmail.com
 
