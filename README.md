@@ -3,9 +3,9 @@
 <div>
   <img align="right" alt="Coding" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"> 
   
-🔭 I’m currently working on my projects
+🔭 I’m currently working on some exciting side projects
 
-🌱 I’m currently learning new technologies
+🌱 I’m exploring different areas of interest in tech and beyond
 
 👯 I’m looking to collaborate on software development
 
