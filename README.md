@@ -14,17 +14,17 @@
 📫 How to reach me: abrarahmedpei@gmail.com
 
 ## Connect with me
-<p align="left">
-  <a href="https://linkedin.com/in/abrar2030" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abrar-ahmed" height="30" width="40" />
+<p align="left" style="display: flex; gap: 0;">
+  <a href="https://linkedin.com/in/abrar2030" target="_blank" style="margin: 0; padding: 0;">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abrar-ahmed" height="30" width="40" style="margin: 0; padding: 0;" />
   </a>
-  <a href="https://www.instagram.com/abrar2o3o/" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="abrar___ahmed" height="30" width="40" />
+  <a href="https://www.instagram.com/abrar2o3o/" target="_blank" style="margin: 0; padding: 0;">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="abrar___ahmed" height="30" width="40" style="margin: 0; padding: 0;" />
   </a>
-  <a href="https://www.facebook.com/abrar2O3O" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="abrar-ahmed-facebook" height="30" width="40" />
+  <a href="https://www.facebook.com/abrar2O3O" target="_blank" style="margin: 0; padding: 0;">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="abrar-ahmed-facebook" height="30" width="40" style="margin: 0; padding: 0;" />
   </a>
-</p>
+</p>>
 
 ## Languages and Tools
 <p align="left">
