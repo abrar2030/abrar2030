@@ -20,13 +20,13 @@
 
 ## My Stats
 <div>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abrar2030&layout=compact&theme=dark&hide_border=true" alt="Top Languages" height="165px">
-  <img src="https://github-readme-stats.vercel.app/api?username=abrar2030&show_icons=true&theme=dark&hide_border=true&include_all_commits=true" alt="GitHub stats" height="165px">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abrar2030&layout=compact&theme=dark&hide_border=true&range=2025" alt="Top Languages" height="165px">
+  <img src="https://github-readme-stats.vercel.app/api?username=abrar2030&show_icons=true&theme=dark&hide_border=true&include_all_commits=true&since=2025-01-01&until=2025-12-31" alt="GitHub stats" height="165px">
 </div>
 
 <br>
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=abrar2030&theme=dark&hide_border=true)
+![GitHub Streak](https://streak-stats.demolab.com?user=abrar2030&theme=dark&hide_border=true&mode=weekly&dates=2025-01-01&currStreakLabel=6FDA44&ring=6FDA44&fire=6FDA44)
 
 <br>
 
