@@ -6,10 +6,8 @@
 </div>
 
 ## Connect with me
-<p align="left">
-<a href="https://linkedin.com/in/abrar2030" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abrar-ahmed" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/abrar2030" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="abrar2030" height="30" width="40" /></a>
-</p>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/abrar2030)
+[![HackerRank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/abrar2030)
 
 ## Languages and Tools
 <p align="left">
@@ -18,16 +16,23 @@
     </a>
 </p>
 
-## My Stats
+## My Development Activity
+
+### Yearly Commit Tracker (2025)
+![2025 Commits](https://img.shields.io/badge/dynamic/json?color=00ff00&label=2025%20Commits&query=count&url=https://badged.vercel.app/api/commit?year=2025&user=abrar2030)
+
+### Coding Streak
+[![GitHub Streak](https://streak-stats.demolab.com?user=abrar2030&theme=dark&hide_border=true&mode=weekly)](https://git.io/streak-stats)
+
+### GitHub Stats
 <div>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abrar2030&layout=compact&theme=dark&hide_border=true&range=2025" alt="Top Languages" height="165px">
-  <img src="https://github-readme-stats.vercel.app/api?username=abrar2030&show_icons=true&theme=dark&hide_border=true&include_all_commits=true&since=2025-01-01&until=2025-12-31" alt="GitHub stats" height="165px">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=abrar2030&theme=github_dark" width="100%">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=abrar2030&theme=react-dark&hide_border=true&area=true" width="100%">
 </div>
 
-<br>
-
-![GitHub Streak](https://streak-stats.demolab.com?user=abrar2030&theme=dark&hide_border=true&mode=weekly&dates=2025-01-01&currStreakLabel=6FDA44&ring=6FDA44&fire=6FDA44)
-
-<br>
+<div>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=abrar2030&theme=github_dark" width="49%">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=abrar2030&theme=github_dark" width="49%">
+</div>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=abrar2030&abbreviated=true)
