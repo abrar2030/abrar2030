@@ -1,5 +1,4 @@
 <h2 align="center">Hi 👋, I'm Abrar Ahmed</h2>
-<h3 align="center">A passionate Software Engineer. I recently graduated with a degree in Computer Science and am currently working as a Software Engineer.</h3>
 
 <div>&nbsp;</div>
 <div>
