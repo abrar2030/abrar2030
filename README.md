@@ -16,23 +16,20 @@
     </a>
 </p>
 
-## My Development Activity
+## GitHub Metrics
 
-### Yearly Commit Tracker (2025)
-![2025 Commits](https://img.shields.io/badge/dynamic/json?color=00ff00&label=2025%20Commits&query=count&url=https://badged.vercel.app/api/commit?year=2025&user=abrar2030)
+### Current Streak
+[![GitHub Streak](https://streak-stats.demolab.com?user=abrar2030&theme=dark&hide_border=true&mode=weekly&background=0D1117&dates=6FDA44&ring=6FDA44&fire=6FDA44)](https://git.io/streak-stats)
 
-### Coding Streak
-[![GitHub Streak](https://streak-stats.demolab.com?user=abrar2030&theme=dark&hide_border=true&mode=weekly)](https://git.io/streak-stats)
+### 2025 Commits
+![Yearly Commits](https://github-readme-stats.vercel.app/api?username=abrar2030&show_icons=true&theme=dark&hide_border=true&include_all_commits=true&count_private=true&disable_animations=true&custom_title=2025%20Commits&range=2025-01-01:2025-12-31)
 
-### GitHub Stats
-<div>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=abrar2030&theme=github_dark" width="100%">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=abrar2030&theme=react-dark&hide_border=true&area=true" width="100%">
-</div>
+### Activity Overview
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=abrar2030&theme=github_dark)
 
 <div>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=abrar2030&theme=github_dark" width="49%">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=abrar2030&theme=github_dark" width="49%">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abrar2030&layout=compact&theme=dark&hide_border=true" height="165">
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=abrar2030&layout=compact&theme=dark&hide_border=true" height="165">
 </div>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=abrar2030&abbreviated=true)
