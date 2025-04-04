@@ -4,15 +4,15 @@
 <div>&nbsp;</div>
 <div>
   <img align="right" alt="Coding" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"> 
-🔭 I’m currently working on **my projects**
+🔭 I’m currently working on my projects
 
-🌱 I’m currently learning **new technologies**
+🌱 I’m currently learning new technologies
 
-👯 I’m looking to collaborate on **software development**
+👯 I’m looking to collaborate on software development
 
-⚡ Fun fact: **I enjoy solving complex problems with simple solutions**
+⚡ Fun fact: I enjoy solving complex problems with simple solutions
 
-📫 How to reach me: **abrarahmedpei@gmail.com**
+📫 How to reach me: abrarahmedpei@gmail.com
 
 ## Connect with me
 <p align="left">
