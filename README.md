@@ -1,7 +1,6 @@
 <h2 align="center">Hey there 👋, I'm Abrar Ahmed</h2>
 <div>&nbsp;</div>
 <div>
-  <img align="right" alt="Coding" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"> 
   
 🔭 I’m currently working on some exciting side projects
 
