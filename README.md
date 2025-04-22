@@ -28,9 +28,9 @@
 </p>
 
 ## My Stats
-<div>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abrar2030&show_icons=true&layout=compact&theme=dark" alt="Top Languages">
-  <img src="https://github-readme-stats.vercel.app/api?username=abrar2030&show_icons=true&theme=dark&count_private=true" alt="Abrar's GitHub stats" height="165px"/>
+<div align="center">
+   <img width="400" src="https://github-readme-stats.vercel.app/api?username=abrar2030&theme=dark&show_icons=true&hide_border=true&count_private=true" />
+   <img width="425" src="https://github-readme-streak-stats.herokuapp.com/?user=abrar2030&theme=dark&hide_border=true" />
 </div>
 
 <br>
