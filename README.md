@@ -26,10 +26,7 @@
 ## My Stats
 <div align="center">
    <img width="400" src="https://github-readme-stats.vercel.app/api?username=abrar2030&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" />
-   <br><br>
-   <a href="https://github.com/ryo-ma/github-profile-trophy">
-     <img width="800" src="https://github-profile-trophy.vercel.app/?username=abrar2030&theme=tokyonight&no-frame=true&row=1&column=7" />
-   </a>
+   <img width="425" src="https://github-readme-streak-stats.herokuapp.com/?user=abrar2030&theme=tokyonight&hide_border=true" />
 </div>
 
 <br>
