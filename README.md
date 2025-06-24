@@ -1,12 +1,12 @@
 <h2 align="center">Hey there 👋, I'm Abrar Ahmed</h2>
 <div>&nbsp;</div>
 <div>
-  
-🔭 I’m currently working on some exciting side projects  
-🌱 I’m exploring different areas of interest in tech and beyond  
-👯 I’m excited about new challenges and opportunities  
-⚡ Fun fact: I love mapping real-world systems into software  
-📫 How to reach me: abrarahmedpei@gmail.com  
+
+🔭 I’m currently working on some exciting side projects
+🌱 I’m exploring different areas of interest in tech and beyond
+👯 I’m excited about new challenges and opportunities
+⚡ Fun fact: I love mapping real-world systems into software
+📫 How to reach me: [abrarahmedpei@gmail.com](mailto:abrarahmedpei@gmail.com)
 
 ## Connect with me
 
@@ -18,7 +18,8 @@
   <!-- New Connections -->
   <a href="https://www.credly.com/users/abrar-ahmed" target="blank" style="text-decoration:none;">
     <img align="center" src="https://logo.clearbit.com/credly.com?size=80" alt="Credly" height="30" />
-  </a><a href="https://www.cloudskillsboost.google/public_profiles/1601f1ee-b805-48be-a523-753d139f53cf" target="blank" style="text-decoration:none; margin-left:8px;">
+  </a>
+  <a href="https://www.cloudskillsboost.google/public_profiles/1601f1ee-b805-48be-a523-753d139f53cf" target="blank" style="text-decoration:none;">
     <img align="center" src="https://logo.clearbit.com/google.com?size=80" alt="Cloud Skills Boost" height="30" />
   </a>
 </p>
