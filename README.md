@@ -16,11 +16,11 @@
   <a href="https://www.facebook.com/abrar2O3O/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="abrar___ahmed" height="30" width="40" /></a>
   <a href="https://www.hackerrank.com/abrar2030/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="abrar___ahmed" height="30" width="40" /></a>
   <!-- New Connections -->
-  <a href="https://www.credly.com/users/abrar-ahmed" target="blank">
-    <img align="center" src="https://logo.clearbit.com/credly.com?size=80" alt="Credly" height="30" />
+  <a href="https://www.credly.com/users/abrar-ahmed" target="blank" style="display: inline-block; height: 30px; line-height: 0;">
+    <img src="https://logo.clearbit.com/credly.com?size=80" alt="Credly" height="30" style="border: none; vertical-align: middle;" />
   </a>
-  <a href="https://www.cloudskillsboost.google/public_profiles/1601f1ee-b805-48be-a523-753d139f53cf" target="blank">
-    <img align="center" src="https://logo.clearbit.com/google.com?size=80" alt="Cloud Skills Boost" height="30" />
+  <a href="https://www.cloudskillsboost.google/public_profiles/1601f1ee-b805-48be-a523-753d139f53cf" target="blank" style="display: inline-block; height: 30px; line-height: 0;">
+    <img src="https://logo.clearbit.com/google.com?size=80" alt="Cloud Skills Boost" height="30" style="border: none; vertical-align: middle;" />
   </a>
 </p>
 
