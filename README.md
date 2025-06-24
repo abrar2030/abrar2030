@@ -20,7 +20,7 @@
     <img align="center" src="https://logo.clearbit.com/credly.com?size=80" alt="Credly" height="30" />
   </a>
   <a href="https://www.cloudskillsboost.google/public_profiles/1601f1ee-b805-48be-a523-753d139f53cf" target="blank">
-    <img align="center" src="https://logo.clearbit.com/cloudskillsboost.google?size=80" alt="Cloud Skills Boost" height="30" />
+    <img align="center" src="https://logo.clearbit.com/google.com?size=80" alt="Cloud Skills Boost" height="30" />
   </a>
 </p>
 
