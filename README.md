@@ -10,7 +10,7 @@
 
 ## Connect with me
 
-<a href="https://linkedin.com/in/abrar2030" target="blank">
+<a href="https://linkedin.com/in/abrar2030" target="blank" style="text-decoration:none;">
   <img
     align="center"
     src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
@@ -18,7 +18,7 @@
     height="30"
     width="40" />
 </a>
-<a href="https://www.instagram.com/abrar2o3o/" target="blank">
+<a href="https://www.instagram.com/abrar2o3o/" target="blank" style="text-decoration:none;">
   <img
     align="center"
     src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
@@ -26,7 +26,7 @@
     height="30"
     width="40" />
 </a>
-<a href="https://www.facebook.com/abrar2O3O/" target="blank">
+<a href="https://www.facebook.com/abrar2O3O/" target="blank" style="text-decoration:none;">
   <img
     align="center"
     src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg"
@@ -55,7 +55,7 @@
 </a>
 <a href="https://www.credly.com/users/abrar-ahmed"
    target="blank"
-   style="text-decoration:none; margin-right:16px;">
+   style="text-decoration:none;">
   <img
     align="center"
     src="https://logo.clearbit.com/credly.com?size=80"
