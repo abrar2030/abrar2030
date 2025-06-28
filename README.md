@@ -16,10 +16,9 @@
   <a href="https://www.facebook.com/abrar2O3O/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="abrar___ahmed" height="30" width="40" /></a>
 <a href="https://www.cloudskillsboost.google/public_profiles/1601f1ee-b805-48be-a523-753d139f53cf"
    target="_blank"
-   style="text-decoration:none; margin-left:16px;">
-  <img align="center"
-       src="https://cdn.qwiklabs.com/assets/leagues/gold_sm_new-6a90c250a97c613f04487c7ef514ef238c5ad394.png"
-       alt="Google Cloud Skills Boost Gold League Badge"
+   style="text-decoration:none; display:inline-block; margin-left:16px;">
+  <img src="https://cdn.qwiklabs.com/assets/badges/skill-badge-12345.svg"
+       alt="Manage Kubernetes in Google Cloud Skill Badge"
        height="30" />
 </a>
   <a href="https://www.hackerrank.com/abrar2030/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="abrar___ahmed" height="30" width="40" /></a>
