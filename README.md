@@ -21,7 +21,9 @@
        src="https://raw.githubusercontent.com/GoogleCloudPlatform/gcp-icons/master/icons/GoogleCloudPlatform.svg"
        alt="Google Cloud"
        height="30" />
-
+ <a href="https://www.credly.com/users/abrar-ahmed" target="blank" style="text-decoration:none; margin-right:16px;">Add commentMore actions
+    <img align="center" src="https://logo.clearbit.com/credly.com?size=80" alt="Credly" height="30"  />
+  </a>
 
 ## Languages and Tools
 
