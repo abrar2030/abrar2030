@@ -23,7 +23,7 @@
 
 <p align="left">
     <a href="https://github.com/abrar2030">
-        <img src="https://skillicons.dev/icons?i=aws,gcp,azure,kubernetes,docker,terraform,jenkins,ansible,react,angular,nodejs,java,python,ts,js,spring,dotnet,git,github,idea,vscode" />
+        <img src="https://skillicons.dev/icons?i=python,java,ts,js,aws,gcp,kubernetes,docker,terraform,jenkins,ansible,react,angular,nodejs,spring" />
     </a>
 </p>
 
