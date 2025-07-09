@@ -18,7 +18,20 @@
 <img align="center" src="https://cdn.worldvectorlogo.com/logos/google-cloud-2.svg?size=20" alt="Cloud Skills Boost" height="30" /></a>
   <a href="https://www.credly.com/users/abrar-ahmed" target="blank" style="text-decoration:none; margin-right:16px;">
 <img align="center" src="https://logo.clearbit.com/credly.com?size=40" alt="Credly" height="30"  /></a>
-[![🅰](https://img.shields.io/badge/-🅰-0A66C2?style=for-the-badge)](https://abrar2030.github.io/Inceptra/)
+<a href="https://abrar2030.github.io/Inceptra/" target="_blank" style="margin-left:16px; text-decoration:none;">
+  <span style="
+    display:inline-block;
+    width:40px;
+    height:30px;
+    border-radius:6px;
+    background-color:#0A66C2;
+    color:#ffffff;
+    font-weight:bold;
+    font-size:18px;
+    line-height:30px;
+    text-align:center;
+  ">A</span>
+</a>
 
 ## Languages and Tools
 
