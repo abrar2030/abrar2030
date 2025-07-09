@@ -27,9 +27,10 @@
     background-color:#0A66C2;
     color:#ffffff;
     font-weight:bold;
-    font-size:18px;
+    font-size:24px;
     line-height:30px;
     text-align:center;
+    text-decoration:none;
   ">A</span>
 </a>
 
