@@ -20,7 +20,7 @@
 <img align="center" src="https://logo.clearbit.com/credly.com?size=40" alt="Credly" height="30"  /></a>
 <a href="https://abrar2030.github.io/Inceptra/" target="_blank" style="margin-left:16px; text-decoration:none; display:inline-block; line-height:0;">
   <svg width="40" height="30" xmlns="http://www.w3.org/2000/svg">
-    <rect width="40" height="30" rx="6" fill="#0A66C2"/>
+    <rect width="70" height="30" rx="6" fill="#0A66C2"/>
     <text x="50%" y="50%" fill="#ffffff" font-family="Arial, sans-serif" font-size="20" font-weight="bold" dominant-baseline="middle" text-anchor="middle">A</text>
   </svg>
 </a>
