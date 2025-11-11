@@ -1,11 +1,12 @@
 <h2 align="center">Hey there 👋, I'm Abrar Ahmed</h2>
 <div>&nbsp;</div>
 <div>
-  
-🔭 I’m currently working on some exciting side projects  
-🌱 I’m exploring different areas of interest in tech and beyond  
-👯 I’m excited about new challenges and opportunities  
-⚡ Fun fact: I love mapping real-world systems into software  
+
+🔭 I’m currently exploring the intersection of **Finance, Data Science, and AI**  
+📊 I’m working on projects involving **quantitative modeling**, **portfolio optimization**, and **derivative pricing**  
+🌱 I’m deepening my understanding of **stochastic processes**, **machine learning**, and **risk management**  
+👯 I’m open to collaborating on **quantitative research** and **data-driven finance** projects  
+⚡ Fun fact: My brain runs on Monte Carlo simulations and coffee. ☕🎲  
 
 ## Connect with me
 
