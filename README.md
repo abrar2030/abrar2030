@@ -6,7 +6,6 @@
 🌱 I’m exploring different areas of interest in tech and beyond  
 👯 I’m excited about new challenges and opportunities  
 ⚡ Fun fact: I love mapping real-world systems into software  
-📫 How to reach me: abrarahmedpei@gmail.com  
 
 ## Connect with me
 
