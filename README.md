@@ -2,11 +2,11 @@
 <div>&nbsp;</div>
 <div>
 
-🔭 Exploring the intersection of **Finance**, **Data Science**, and **AI**  
-📊 Building projects in **quantitative modeling**, **portfolio optimization**, and **derivative pricing**  
-🌱 Expanding my expertise in **stochastic processes**, **machine learning**, and **risk management**  
-👯 Open to collaborations on **quantitative research** and **data-driven finance** projects  
-⚡ Fun fact: My brain runs on **Monte Carlo simulations** and **coffee** ☕🎲  
+🔭 I’m currently exploring the intersection of **Finance, Data Science, and AI**  
+📊 I’m working on projects involving **quantitative modeling**, **portfolio optimization**, and **derivative pricing**  
+🌱 I’m deepening my understanding of **stochastic processes**, **machine learning**, and **risk management**  
+👯 I’m open to collaborating on **quantitative research** and **data-driven finance** projects  
+⚡ Fun fact: My brain runs on Monte Carlo simulations and coffee. ☕🎲  
 
 ## Connect with me
 
