@@ -10,7 +10,7 @@
 
 ## Connect with me
 
-  <a href="https://abrar2030.github.io/Inceptra/" target="_blank">
+<a href="https://abrar2030.github.io/Inceptra/" target="_blank">
   <img align="center" src="https://uxwing.com/wp-content/themes/uxwing/download/education-school/a-alphabet-round-circle-icon.svg" 
        alt="Inceptra" height="35" width="35" /> 
   </a>
