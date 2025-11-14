@@ -11,7 +11,7 @@
 ## Connect with me
 
 <a href="https://abrar2030.github.io/Inceptra/" target="blank">
-  <img align="center" src="https://www.svgrepo.com/show/532281/a.svg" alt="Inceptra" height="35" width="35" />
+  <img align="center" src="https://www.svgrepo.com/show/532283/a-3.svg" alt="Inceptra" height="35" width="35" />
 </a>
 
 ## Languages and Tools
