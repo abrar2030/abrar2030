@@ -10,8 +10,9 @@
 
 ## Connect with me
 
-<a href="https://abrar2030.github.io/Inceptra/" target="blank">
-  <img align="center" src="https://www.svgrepo.com/show/532283/a-3.svg" alt="Inceptra" height="35" width="35" />
+<a href="https://abrar2030.github.io/Inceptra/" target="_blank">
+  <img align="center" src="https://uxwing.com/wp-content/themes/uxwing/download/education-school/a-alphabet-round-circle-icon.svg" 
+       alt="Inceptra" height="35" width="35" />
 </a>
 
 ## Languages and Tools
