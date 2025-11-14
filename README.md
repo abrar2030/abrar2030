@@ -23,8 +23,7 @@
 </a>
 <a href="https://abrar2030.github.io/Inceptra/" target="blank">
   <img align="center" src="https://uxwing.com/wp-content/themes/uxwing/download/education-school/a-alphabet-round-circle-icon.svg"
-  alt="Inceptra" height="30" width="40" />
-</a>
+  alt="Inceptra" height="30" width="40" /> </a>
 
 ## Languages and Tools
 
