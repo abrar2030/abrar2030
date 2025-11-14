@@ -10,8 +10,7 @@
 
 ## Connect with me
 
-<a href="https://abrar2030.github.io/Inceptra/" target="_blank">
-  <img align="center" src="https://uxwing.com/wp-content/themes/uxwing/download/education-school/a-alphabet-round-circle-icon.svg" 
+ <a href="https://abrar2030.github.io/Inceptra/" target="_blank"> <img align="center" src="https://uxwing.com/wp-content/themes/uxwing/download/education-school/a-alphabet-round-circle-icon.svg" 
        alt="Inceptra" height="35" width="35" /> 
   </a>
   <a href="https://linkedin.com/in/abrar2030" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abrar-ahmed" height="30" width="40" /></a>
