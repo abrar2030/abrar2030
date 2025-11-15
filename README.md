@@ -11,7 +11,6 @@
 ## Connect with me
 
 <p float="left">
-
   <a href="https://linkedin.com/in/abrar2030" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="35">
   </a>
