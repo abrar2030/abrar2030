@@ -18,9 +18,10 @@
 <img align="center" src="https://cdn.worldvectorlogo.com/logos/google-cloud-2.svg?size=20" alt="Cloud Skills Boost" height="30" /></a>
   <a href="https://www.credly.com/users/abrar-ahmed" target="blank" style="text-decoration:none; margin-right:16px;">
 <img align="center" src="https://logo.clearbit.com/credly.com?size=40" alt="Credly" height="30"  /></a>
+<a href="https://abrar2030.github.io/Inceptra/" target="blank">
+  <img align="center" src="https://uxwing.com/wp-content/themes/uxwing/download/education-school/a-alphabet-round-circle-icon.svg" alt="Inceptra" height="30" width="40" />
+</a>
 <a href="https://www.researchgate.net/profile/Abrar-Ahmed-59" target="blank">
-    <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/5/5e/ResearchGate_icon_SVG.svg" alt="ResearchGate" height="30" width="40" />
-</a><a href="https://www.researchgate.net/profile/Abrar-Ahmed-59" target="blank">
     <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/5/5e/ResearchGate_icon_SVG.svg" alt="ResearchGate" height="30" width="40" />
 </a>
 
