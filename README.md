@@ -21,7 +21,11 @@
 <a href="https://www.researchgate.net/profile/Abrar-Ahmed-59" target="blank">
     <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/5/5e/ResearchGate_icon_SVG.svg" alt="ResearchGate" height="30" width="40" />
 </a>
-<a href="https://linkedin.com/in/abrar2030" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abrar-ahmed" height="30" width="40" /></a>
+
+<a href="https://www.researchgate.net/profile/Abrar-Ahmed-59" target="blank">
+    <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/5/5e/ResearchGate_icon_SVG.svg" alt="ResearchGate" height="30" width="40" />
+</a>
+
 
 ## Languages and Tools
 
