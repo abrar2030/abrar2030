@@ -21,8 +21,8 @@
 <a href="https://www.researchgate.net/profile/Abrar-Ahmed-59" target="blank">
     <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/5/5e/ResearchGate_icon_SVG.svg" alt="ResearchGate" height="30" width="40" />
 </a>
-  <a href="https://abrar2030.github.io/Inceptra/" target="blank"><img align="center" src="https://uxwing.com/wp-content/themes/uxwing/download/education-school/a-alphabet-round-circle-icon.svg" alt="Inceptra" height="30" width="40" />
-  </a>
+<a href="https://abrar2030.github.io/Inceptra/" target="blank"><img align="center" src="https://uxwing.com/wp-content/themes/uxwing/download/education-school/a-alphabet-round-circle-icon.svg" alt="Inceptra" height="30" width="40" />
+</a>
 
 ## Languages and Tools
 
