@@ -10,30 +10,39 @@
 
 ## Connect with me
 
-<a href="https://linkedin.com/in/abrar2030" target="_blank">
-  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30">
-</a><!--
---><a href="https://www.instagram.com/abrar2030" target="_blank">
-  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30">
-</a><!--
---><a href="https://www.facebook.com/abrar2030" target="_blank">
-  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" height="30">
-</a><!--
---><a href="https://www.hackerrank.com/abrar2030" target="_blank">
-  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" height="30">
-</a><!--
---><a href="https://www.cloudskillsboost.google/public_profiles/1601f1ee-b805-48be-a523-753d139f53cf" target="_blank">
-  <img src="https://cdn.worldvectorlogo.com/logos/google-cloud-2.svg" height="30">
-</a><!--
---><a href="https://www.credly.com/users/abrar-ahmed" target="_blank">
-  <img src="https://logo.clearbit.com/credly.com?size=40" height="30">
-</a><!--
---><a href="https://abrar2030.github.io/Inceptra/" target="_blank">
-  <img src="https://uxwing.com/wp-content/themes/uxwing/download/education-school/a-alphabet-round-circle-icon.svg" height="30" width="40">
-</a><!--
---><a href="https://www.researchgate.net/profile/Abrar-Ahmed-59" target="_blank">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/5/5e/ResearchGate_icon_SVG.svg" height="30" width="40">
-</a>
+<p float="left">
+  <a href="https://linkedin.com/in/abrar2030" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="35">
+  </a>
+  
+  <a href="https://www.instagram.com/abrar2030" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="35">
+  </a>
+  
+  <a href="https://www.facebook.com/abrar2030" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" height="35">
+  </a>
+  
+  <a href="https://www.hackerrank.com/abrar2030" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" height="35">
+  </a>
+  
+  <a href="https://www.cloudskillsboost.google/public_profiles/1601f1ee-b805-48be-a523-753d139f53cf" target="_blank">
+    <img src="https://cdn.worldvectorlogo.com/logos/google-cloud-2.svg" height="35">
+  </a>
+  
+  <a href="https://www.credly.com/users/abrar-ahmed" target="_blank">
+    <img src="https://logo.clearbit.com/credly.com?size=40" height="35">
+  </a>
+  
+  <a href="https://abrar2030.github.io/Inceptra/" target="_blank">
+    <img src="https://uxwing.com/wp-content/themes/uxwing/download/education-school/a-alphabet-round-circle-icon.svg" height="35">
+  </a>
+  
+  <a href="https://www.researchgate.net/profile/Abrar-Ahmed-59" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/5/5e/ResearchGate_icon_SVG.svg" height="35">
+  </a>
+</p>
 
 ## Languages and Tools
 
