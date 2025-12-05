@@ -15,11 +15,11 @@
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="35">
   </a>
   
-  <a href="https://www.instagram.com/abrar2030" target="_blank">
+  <a href="https://www.instagram.com/abrar2o3o" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="35">
   </a>
   
-  <a href="https://www.facebook.com/abrar2030" target="_blank">
+  <a href="https://www.facebook.com/abrar2O3O" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" height="35">
   </a>
   
