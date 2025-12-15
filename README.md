@@ -30,10 +30,6 @@
   <a href="https://www.cloudskillsboost.google/public_profiles/1601f1ee-b805-48be-a523-753d139f53cf" target="_blank">
     <img src="https://cdn.worldvectorlogo.com/logos/google-cloud-2.svg" height="35">
   </a>
-  
-  <a href="https://www.credly.com/users/abrar-ahmed" target="_blank">
-    <img src="https://logo.clearbit.com/credly.com?size=40" height="35">
-  </a>
 
   <a href="https://www.credly.com/users/abrar-ahmed" target="_blank" rel="noopener">
   <img
