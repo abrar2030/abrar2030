@@ -40,15 +40,15 @@
     <img src="https://cdn.worldvectorlogo.com/logos/google-cloud-2.svg" height="35">
   </a>
 
-  <a href="https://www.credly.com/users/abrar-ahmed" target="_blank" rel="noopener">
-  <img
-    src="https://cdn.jsdelivr.net/npm/simple-icons@16.2.0/icons/credly.svg"
-    alt="Credly"
-    height="35"
-    onerror="this.onerror=null;this.src='https://www.svgrepo.com/show/331358/credly.svg';"
-    style="vertical-align:middle;"
-  >
-</a>
+  <a href="https://www.credly.com/users/abrar-ahmed" target="_blank" rel="noopener noreferrer" aria-label="Credly — Abrar Ahmed" style="display:inline-block; line-height:0;">
+    <img
+      src="https://www.svgrepo.com/show/331358/credly.svg"
+      alt="Credly"
+      height="35"
+      style="display:block; vertical-align:middle;"
+      onerror="this.onerror=null; this.src='https://cdn.jsdelivr.net/npm/simple-icons@16.2.0/icons/credly.svg'; this.style.filter='invert(54%) sepia(86%) saturate(390%) hue-rotate(164deg) brightness(96%) contrast(95%)';"
+    />
+  </a>
   
   <a href="https://www.researchgate.net/profile/Abrar-Ahmed-59" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/5/5e/ResearchGate_icon_SVG.svg" height="35">
