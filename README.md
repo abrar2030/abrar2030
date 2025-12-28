@@ -53,8 +53,10 @@
   <a href="https://www.researchgate.net/profile/Abrar-Ahmed-59" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/5/5e/ResearchGate_icon_SVG.svg" height="35">
   </a>
-
-<a href="https://abrar2030.github.io/Inceptra/" target="_blank"> <img src="https://uxwing.com/wp-content/themes/uxwing/download/education-school/a-alphabet-round-circle-icon.svg" height="35"> </a>
+  
+  <a href="https://abrar2030.github.io/Inceptra/" target="_blank"> 
+    <img src="https://uxwing.com/wp-content/themes/uxwing/download/education-school/a-alphabet-round-circle-icon.svg" height="35"> 
+  </a>
 </p>
 
 ## Languages and Tools
