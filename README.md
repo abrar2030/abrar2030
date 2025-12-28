@@ -54,9 +54,18 @@
     <img src="https://upload.wikimedia.org/wikipedia/commons/5/5e/ResearchGate_icon_SVG.svg" height="35">
   </a>
 
-  <a href="https://abrar2030.github.io/Inceptra/" target="_blank">
-    <img src="https://uxwing.com/wp-content/themes/uxwing/download/education-school/a-alphabet-round-circle-icon.svg" height="35">
-  </a>
+<a href="https://abrar2030.github.io/Inceptra/" target="_blank" rel="noopener noreferrer" aria-label="Inceptra — Abrar2030" style="display:inline-block; line-height:0;">
+  <svg width="35" height="35" viewBox="0 0 100 100" xmlns="http://www.w3.org/2000/svg" role="img" aria-hidden="false">
+    <title>Inceptra</title>
+    <defs>
+      <style>
+        :root { --inceptra-bg: #ff6f61; --inceptra-fg: #ffffff; }
+      </style>
+    </defs>
+    <circle cx="50" cy="50" r="50" fill="var(--inceptra-bg,#ff6f61)"/>
+    <text x="50" y="58" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-weight="700" font-size="52" fill="var(--inceptra-fg,#ffffff)">A</text>
+  </svg>
+</a>
 </p>
 
 ## Languages and Tools
