@@ -23,9 +23,19 @@
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" height="35">
   </a>
 
-  <a href="https://leetcode.com/u/abrar2030/" target="_blank">
-    <img src="https://cdn.worldvectorlogo.com/logos/leetcode.svg" height="35">
-  </a>  
+  <a href="https://leetcode.com/u/abrar2030/" target="_blank" rel="noopener noreferrer" style="display:inline-flex; align-items:center; gap:8px; text-decoration:none;">
+    <img
+      src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png"
+      alt="LeetCode"
+      height="35"
+      style="display:block;"
+      onerror="this.style.display='none'; this.parentNode.querySelector('.icon-fallback').style.display='inline-block';"
+    />
+    <!-- fallback text shown only if image fails -->
+    <span class="icon-fallback" style="display:none; font-weight:600; font-family:Arial, Helvetica, sans-serif; font-size:14px; color:#111;">
+      LeetCode
+    </span>
+  </a> 
   
   <a href="https://www.hackerrank.com/abrar2030" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" height="35">
