@@ -22,6 +22,10 @@
   <a href="https://www.facebook.com/abrar2O3O" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" height="35">
   </a>
+
+  <a href="https://leetcode.com/u/abrar2030/" target="_blank">
+    <img src="https://cdn.worldvectorlogo.com/logos/leetcode.svg" height="35">
+  </a>  
   
   <a href="https://www.hackerrank.com/abrar2030" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" height="35">
