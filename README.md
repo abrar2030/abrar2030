@@ -23,13 +23,12 @@
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" height="35">
   </a>
 
-  <a href="https://leetcode.com/u/abrar2030/" target="_blank" rel="noopener noreferrer" aria-label="LeetCode — Abrar2030">
+  <a href="https://leetcode.com/u/abrar2030/" target="_blank" rel="noopener noreferrer" aria-label="LeetCode — Abrar2030" style="display:inline-block; line-height:0;">
     <img
-      src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/leetcode.svg"
+      src="https://upload.wikimedia.org/wikipedia/commons/8/8e/LeetCode_Logo_1.png"
       alt="LeetCode"
       height="35"
-      style="display:block; vertical-align:middle;"
-      onerror="this.onerror=null; this.src='https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/leetcode.svg';"
+      style="display:block; background:transparent;"
     />
   </a>
 
