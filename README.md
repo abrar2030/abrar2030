@@ -23,20 +23,16 @@
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" height="35">
   </a>
 
-  <a href="https://leetcode.com/u/abrar2030/" target="_blank" rel="noopener noreferrer" style="display:inline-flex; align-items:center; gap:8px; text-decoration:none;">
+  <a href="https://leetcode.com/u/abrar2030/" target="_blank" rel="noopener noreferrer" aria-label="LeetCode — Abrar2030">
     <img
-      src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png"
+      src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/leetcode.svg"
       alt="LeetCode"
       height="35"
-      style="display:block;"
-      onerror="this.style.display='none'; this.parentNode.querySelector('.icon-fallback').style.display='inline-block';"
+      style="display:block; vertical-align:middle;"
+      onerror="this.onerror=null; this.src='https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/leetcode.svg';"
     />
-    <!-- fallback text shown only if image fails -->
-    <span class="icon-fallback" style="display:none; font-weight:600; font-family:Arial, Helvetica, sans-serif; font-size:14px; color:#111;">
-      LeetCode
-    </span>
-  </a> 
-  
+  </a>
+
   <a href="https://www.hackerrank.com/abrar2030" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" height="35">
   </a>
