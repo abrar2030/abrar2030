@@ -23,14 +23,16 @@
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" height="35">
   </a>
 
-  <a href="https://leetcode.com/u/abrar2030/" target="_blank" rel="noopener noreferrer" aria-label="LeetCode — Abrar2030" style="display:inline-block; line-height:0;">
-    <img
-      src="https://upload.wikimedia.org/wikipedia/commons/8/8e/LeetCode_Logo_1.png"
-      alt="LeetCode"
-      height="35"
-      style="display:block; background:transparent;"
-    />
-  </a>
+<!--
+<a href="https://leetcode.com/u/abrar2030/" target="_blank" rel="noopener noreferrer" aria-label="LeetCode — Abrar2030" style="display:inline-block; line-height:0;">
+  <img
+    src="https://upload.wikimedia.org/wikipedia/commons/8/8e/LeetCode_Logo_1.png"
+    alt="LeetCode"
+    height="35"
+    style="display:block; background:transparent;"
+  />
+</a>
+-->
 
   <a href="https://www.hackerrank.com/abrar2030" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" height="35">
@@ -54,9 +56,11 @@
     <img src="https://upload.wikimedia.org/wikipedia/commons/5/5e/ResearchGate_icon_SVG.svg" height="35">
   </a>
   
-  <a href="https://abrar2030.github.io/Inceptra/" target="_blank"> 
-    <img src="https://uxwing.com/wp-content/themes/uxwing/download/education-school/a-alphabet-round-circle-icon.svg" height="35"> 
-  </a>
+<!--
+<a href="https://abrar2030.github.io/Inceptra/" target="_blank"> 
+  <img src="https://uxwing.com/wp-content/themes/uxwing/download/education-school/a-alphabet-round-circle-icon.svg" height="35"> 
+</a>
+-->
 </p>
 
 ## Languages and Tools
