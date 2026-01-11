@@ -79,5 +79,3 @@
 </div>
 
 <br>
-
-![Profile Views](https://komarev.com/ghpvc/?username=abrar2030\&abbreviated=true)
