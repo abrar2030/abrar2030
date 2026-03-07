@@ -10,7 +10,7 @@ I work at the intersection of quantitative finance, machine learning, and AI sys
 Currently completing an MSc in Financial Engineering at WorldQuant University while leading [QuantSingularity](https://github.com/quantsingularity), an independent research and engineering lab with 32 published projects and 4 preprint research papers on Zenodo.
 
 - Building production-ready systems in quantitative finance, DeFi, and multi-agent AI
-- Publishing preprints on DRL, volatility modeling, spoofing detection, and quantum finance
+- Researching DRL, volatility modeling, spoofing detection, and quantum finance
 - Open to collaboration on quantitative research, systematic trading, and AI for finance
 
 ---
@@ -38,9 +38,6 @@ Currently completing an MSc in Financial Engineering at WorldQuant University wh
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" height="30">
   </a>
   &nbsp;
-  <a href="https://www.instagram.com/abrar2o3o" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30">
-  </a>
 </p>
 
 ---
