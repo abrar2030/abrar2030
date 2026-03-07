@@ -21,23 +21,18 @@ Currently completing an MSc in Financial Engineering at WorldQuant University wh
   <a href="https://linkedin.com/in/abrar2030" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30">
   </a>
-  &nbsp;
   <a href="https://www.researchgate.net/profile/Abrar-Ahmed-59" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/5/5e/ResearchGate_icon_SVG.svg" height="30">
   </a>
-  &nbsp;
   <a href="https://www.credly.com/users/abrar-ahmed" target="_blank">
     <img src="https://www.svgrepo.com/show/331358/credly.svg" height="30">
   </a>
-  &nbsp;
   <a href="https://www.cloudskillsboost.google/public_profiles/1601f1ee-b805-48be-a523-753d139f53cf" target="_blank">
     <img src="https://cdn.worldvectorlogo.com/logos/google-cloud-2.svg" height="30">
   </a>
-  &nbsp;
   <a href="https://www.hackerrank.com/abrar2030" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" height="30">
   </a>
-  &nbsp;
 </p>
 
 ---
