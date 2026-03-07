@@ -15,7 +15,7 @@ Currently completing an MSc in Financial Engineering at WorldQuant University wh
 
 ---
 
-## Connect With Me
+## Profiles
 
 <p>
   <a href="https://linkedin.com/in/abrar2030" target="_blank">
