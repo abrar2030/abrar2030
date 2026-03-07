@@ -13,8 +13,6 @@ Currently completing an MSc in Financial Engineering at WorldQuant University wh
 - Researching DRL, volatility modeling, spoofing detection, and quantum finance
 - Open to collaboration on quantitative research, systematic trading, and AI for finance
 
----
-
 ## Profiles
 
 <p>
@@ -34,8 +32,6 @@ Currently completing an MSc in Financial Engineering at WorldQuant University wh
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" height="40" width="40">
   </a>
 </p>
-
----
 
 ## Languages and Tools
 
