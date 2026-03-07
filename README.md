@@ -38,6 +38,9 @@ Currently completing an MSc in Financial Engineering at WorldQuant University wh
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" height="30">
   </a>
   &nbsp;
+  <a href="https://www.instagram.com/abrar2o3o" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30">
+  </a>
 </p>
 
 ---
@@ -46,6 +49,6 @@ Currently completing an MSc in Financial Engineering at WorldQuant University wh
 
 <p>
   <a href="https://github.com/abrar2030">
-    <img src="https://skillicons.dev/icons?i=python,java,ts,js,aws,gcp,kubernetes,docker,terraform,jenkins,ansible,react,angular,nodejs,spring" />
+    <img src="https://skillicons.dev/icons?i=python,r,cpp,pytorch,tensorflow,aws,gcp,azure,docker,kubernetes,postgres,mongodb,git,latex,matlab" />
   </a>
 </p>
