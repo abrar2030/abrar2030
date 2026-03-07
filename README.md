@@ -38,9 +38,6 @@ Currently completing an MSc in Financial Engineering at WorldQuant University wh
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" height="30">
   </a>
   &nbsp;
-  <a href="https://www.instagram.com/abrar2o3o" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30">
-  </a>
 </p>
 
 ---
