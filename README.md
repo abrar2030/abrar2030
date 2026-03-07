@@ -1,74 +1,54 @@
-<h2 align="center">Hey there 👋, I'm Abrar Ahmed</h2>
-<div>&nbsp;</div>
-<div>
-
-🔭 I’m currently exploring the intersection of Finance, Data Science, and AI  
-📊 I’m working on projects involving quantitative modeling, portfolio optimization, and derivative pricing  
-🌱 I’m deepening my understanding of stochastic processes, machine learning, and risk management  
-👯 I’m open to collaborating on quantitative research and data-driven finance projects  
-⚡ Fun fact: My brain runs on Monte Carlo simulations and coffee. ☕🎲
-
-## Connect with me
-
-<p float="left">
-  <a href="https://linkedin.com/in/abrar2030" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="35">
-  </a>
-  
-  <a href="https://www.instagram.com/abrar2o3o" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="35">
-  </a>
-  
-  <a href="https://www.facebook.com/abrar2O3O" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" height="35">
-  </a>
-
-<!--
-<a href="https://leetcode.com/u/abrar2030/" target="_blank" rel="noopener noreferrer" aria-label="LeetCode — Abrar2030" style="display:inline-block; line-height:0;">
-  <img
-    src="https://upload.wikimedia.org/wikipedia/commons/8/8e/LeetCode_Logo_1.png"
-    alt="LeetCode"
-    height="35"
-    style="display:block; background:transparent;"
-  />
-</a>
--->
-
-  <a href="https://www.hackerrank.com/abrar2030" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" height="35">
-  </a>
-  
-  <a href="https://www.cloudskillsboost.google/public_profiles/1601f1ee-b805-48be-a523-753d139f53cf" target="_blank">
-    <img src="https://cdn.worldvectorlogo.com/logos/google-cloud-2.svg" height="35">
-  </a>
-
-  <a href="https://www.credly.com/users/abrar-ahmed" target="_blank" rel="noopener noreferrer" aria-label="Credly — Abrar Ahmed" style="display:inline-block; line-height:0;">
-    <img
-      src="https://www.svgrepo.com/show/331358/credly.svg"
-      alt="Credly"
-      height="35"
-      style="display:block; vertical-align:middle;"
-      onerror="this.onerror=null; this.src='https://cdn.jsdelivr.net/npm/simple-icons@16.2.0/icons/credly.svg'; this.style.filter='invert(54%) sepia(86%) saturate(390%) hue-rotate(164deg) brightness(96%) contrast(95%)';"
-    />
-  </a>
-  
-  <a href="https://www.researchgate.net/profile/Abrar-Ahmed-59" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/5/5e/ResearchGate_icon_SVG.svg" height="35">
-  </a>
-  
-<!--
-<a href="https://abrar2030.github.io/Inceptra/" target="_blank"> 
-  <img src="https://uxwing.com/wp-content/themes/uxwing/download/education-school/a-alphabet-round-circle-icon.svg" height="35"> 
-</a>
--->
+<h2 align="center">Abrar Ahmed</h2>
+<p align="center">
+  MSc Financial Engineering &nbsp;·&nbsp; WorldQuant University &nbsp;·&nbsp; Founder, QuantSingularity
 </p>
+
+<div>&nbsp;</div>
+
+I work at the intersection of quantitative finance, machine learning, and AI systems. My research focuses on building explainable, regulatory-grade models for real-world financial environments, covering portfolio optimization, volatility forecasting, market microstructure, and CBDC liquidity management.
+
+Currently completing an MSc in Financial Engineering at WorldQuant University while leading [QuantSingularity](https://github.com/quantsingularity), an independent research and engineering lab with 32 published projects and 4 peer-reviewed research papers on Zenodo.
+
+- Building production-ready systems in quantitative finance, DeFi, and multi-agent AI
+- Publishing research on deep reinforcement learning, explainable volatility models, HFT spoofing detection, and quantum-enhanced finance
+- Open to collaboration on quantitative research, systematic trading, and AI for finance
+
+---
+
+## Connect
+
+<p>
+  <a href="https://linkedin.com/in/abrar2030" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30">
+  </a>
+  &nbsp;
+  <a href="https://www.researchgate.net/profile/Abrar-Ahmed-59" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/5/5e/ResearchGate_icon_SVG.svg" height="30">
+  </a>
+  &nbsp;
+  <a href="https://www.credly.com/users/abrar-ahmed" target="_blank">
+    <img src="https://www.svgrepo.com/show/331358/credly.svg" height="30">
+  </a>
+  &nbsp;
+  <a href="https://www.cloudskillsboost.google/public_profiles/1601f1ee-b805-48be-a523-753d139f53cf" target="_blank">
+    <img src="https://cdn.worldvectorlogo.com/logos/google-cloud-2.svg" height="30">
+  </a>
+  &nbsp;
+  <a href="https://www.hackerrank.com/abrar2030" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" height="30">
+  </a>
+  &nbsp;
+  <a href="https://www.instagram.com/abrar2o3o" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30">
+  </a>
+</p>
+
+---
 
 ## Languages and Tools
 
-<p align="left">
-    <a href="https://github.com/abrar2030">
-        <img src="https://skillicons.dev/icons?i=python,java,ts,js,aws,gcp,kubernetes,docker,terraform,jenkins,ansible,react,angular,nodejs,spring" />
-    </a>
+<p>
+  <a href="https://github.com/abrar2030">
+    <img src="https://skillicons.dev/icons?i=python,java,ts,js,aws,gcp,kubernetes,docker,terraform,jenkins,ansible,react,angular,nodejs,spring" />
+  </a>
 </p>
-
-<br>
