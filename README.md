@@ -7,7 +7,7 @@
 
 Quantitative finance researcher and engineer building explainable, production-ready AI systems for real-world financial environments, with a focus on portfolio optimization, volatility forecasting, market microstructure, and CBDC liquidity management.
 
-Currently completing an MSc in Financial Engineering at WorldQuant University while leading [QuantSingularity](https://github.com/quantsingularity), an independent research and engineering lab with 32 published projects and 4 preprint research papers on Zenodo.
+Currently completing an MSc in Financial Engineering at WorldQuant University while leading [QuantSingularity](https://github.com/quantsingularity), an independent research and engineering lab with 32 published projects and 4 preprint research papers on SSRN.
 
 - Building production-ready systems in quantitative finance, DeFi, and multi-agent AI
 - Researching DRL, volatility modeling, spoofing detection, and quantum finance
