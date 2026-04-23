@@ -24,16 +24,6 @@ Currently completing an **MSc in Financial Engineering** at WorldQuant Universit
 
 ---
 
-## 🔭 What I'm Working On
-
-| Area | Focus |
-|------|-------|
-| 🤖 **AI Systems** | Production-ready multi-agent AI for quantitative finance and DeFi |
-| 📈 **Research** | DRL, volatility modeling, spoofing detection, quantum finance |
-| 🤝 **Collaboration** | Quantitative research, systematic trading, AI for finance |
-
----
-
 ## 📊 GitHub Stats
 
 <div align="center">
