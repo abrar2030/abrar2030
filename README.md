@@ -2,7 +2,7 @@
 
 # Abrar Ahmed
 
-**Quantitative Finance Researcher & Engineer · MSc Financial Engineering · WorldQuant University · Founder of [QuantSingularity](https://github.com/quantsingularity)**
+**Quantitative Researcher & Engineer · MSc Financial Engineering · WorldQuant University · Founder of [QuantSingularity](https://github.com/quantsingularity)**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/abrar2030)&nbsp;&nbsp;
 [![ResearchGate](https://img.shields.io/badge/ResearchGate-00CCBB?style=for-the-badge&logo=researchgate&logoColor=white)](https://www.researchgate.net/profile/Abrar-Ahmed-59)&nbsp;&nbsp;
@@ -16,7 +16,7 @@
 
 ## 👤 About Me
 
-Quantitative finance researcher and engineer building **explainable, production-ready AI systems** for real-world financial environments. My work spans portfolio optimization, volatility forecasting, market microstructure analysis, and CBDC liquidity management.
+Quantitative researcher and engineer building **explainable, production-ready AI systems** for real-world financial environments. My work spans portfolio optimization, volatility forecasting, market microstructure analysis, and CBDC liquidity management.
 
 Currently completing an **MSc in Financial Engineering** at WorldQuant University while leading [QuantSingularity](https://github.com/quantsingularity), an independent research and engineering lab with **32 published projects** and **4 preprint papers on SSRN**.
 
