@@ -48,15 +48,16 @@ Currently completing an **MSc in Financial Engineering** at WorldQuant Universit
   </tr>
 </table>
 </div>
----
 
 ## 🛠️ Languages & Tools
 
-<p>
-  <a href="https://github.com/abrar2030">
-    <img src="https://skillicons.dev/icons?i=python,r,cpp,pytorch,tensorflow,aws,gcp,azure,docker,kubernetes,postgres,mongodb,git,latex,matlab" />
-  </a>
-</p>
+<div align="center">
+<table>
+  <tr>
+    <td><img src="https://skillicons.dev/icons?i=python,r,cpp,pytorch,tensorflow,aws,gcp,azure,docker,kubernetes,postgres,mongodb,git,latex,matlab" /></td>
+  </tr>
+</table>
+</div>
 
 ---
 
