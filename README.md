@@ -72,17 +72,3 @@ Currently completing an **MSc in Financial Engineering** at WorldQuant Universit
 - ⚛️ Quantum Finance
 
 ---
-
-## 🏆 Certifications & Credentials
-
-<div align="center">
-<table>
-  <tr>
-    <td><a href="https://www.credly.com/users/abrar-ahmed" target="_blank"><img src="https://www.svgrepo.com/show/331358/credly.svg" height="40" width="80"></a></td>
-    <td><a href="https://www.cloudskillsboost.google/public_profiles/1601f1ee-b805-48be-a523-753d139f53cf" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/google-cloud-2.svg" height="40" width="80"></a></td>
-    <td><a href="https://www.hackerrank.com/abrar2030" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" height="40" width="80"></a></td>
-  </tr>
-</table>
-</div>
-
----
