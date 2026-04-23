@@ -18,7 +18,7 @@
 
 Quantitative researcher and engineer building **explainable, production-ready AI systems** for real-world financial environments. My work spans portfolio optimization, volatility forecasting, market microstructure analysis, and CBDC liquidity management.
 
-Currently completing an **MSc in Financial Engineering** at WorldQuant University while leading [QuantSingularity](https://github.com/quantsingularity), an independent research and engineering lab with **32 published projects** and **4 preprint papers on SSRN**.
+Currently completing an **MSc in Financial Engineering** at WorldQuant University while leading [QuantSingularity](https://github.com/quantsingularity), an independent research and engineering lab.
 
 ![Profile Views](https://komarev.com/ghpvc/?username=abrar2030&style=flat-square&color=blueviolet&label=Profile+Views)
 
