@@ -24,17 +24,6 @@ Currently completing an **MSc in Financial Engineering** at WorldQuant Universit
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-<table>
-  <tr>
-    <td><img height="180em" src="https://github-readme-stats.vercel.app/api?username=abrar2030&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/></td>
-    <td><img height="180em" src="https://streak-stats.demolab.com?user=abrar2030&theme=tokyonight&hide_border=true"/></td>
-  </tr>
-</table>
-</div>
-
 ## 🛠️ Languages & Tools
 
 <div align="center">
