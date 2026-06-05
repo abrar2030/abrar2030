@@ -38,7 +38,7 @@ Currently completing an **MSc in Financial Engineering** at WorldQuant Universit
 
 ## 📝 Research & Publications
 
-> 4 preprint papers published on **SSRN** covering quantitative finance, DeFi, and AI-driven market systems.
+> 4 papers published on **SSRN** covering quantitative finance, DeFi, and AI-driven market systems.
 
 [![SSRN](https://img.shields.io/badge/SSRN-Research_Papers-154881?style=flat-square&logo=ssrn&logoColor=white)](https://papers.ssrn.com/Sol3/Cf_Dev/AbsByAuth.cfm?per_id=10498476)
 [![ResearchGate](https://img.shields.io/badge/ResearchGate-Profile-00CCBB?style=flat-square&logo=researchgate&logoColor=white)](https://www.researchgate.net/profile/Abrar-Ahmed-59)
