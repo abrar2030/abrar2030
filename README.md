@@ -4,6 +4,9 @@
 
 **Quantitative Researcher & Engineer · MSc Financial Engineering · WorldQuant University · Founder of [QuantSingularity](https://github.com/quantsingularity)**
 
+[![Website](https://img.shields.io/badge/Website-abrar2030.github.io-56D4DD?style=for-the-badge)](https://abrar2030.github.io/)&nbsp;&nbsp;
+[![QuantSingularity](https://img.shields.io/badge/QuantSingularity-Live_Site-E8A33D?style=for-the-badge)](https://quantsingularity.github.io/Ledger/)
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/abrar2030)&nbsp;&nbsp;
 [![ResearchGate](https://img.shields.io/badge/ResearchGate-00CCBB?style=for-the-badge&logo=researchgate&logoColor=white)](https://www.researchgate.net/profile/Abrar-Ahmed-59)&nbsp;&nbsp;
 [![Credly](https://img.shields.io/badge/Credly-FF6B00?style=for-the-badge&logo=credly&logoColor=white)](https://www.credly.com/users/abrar-ahmed)&nbsp;&nbsp;
