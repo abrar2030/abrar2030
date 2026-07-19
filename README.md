@@ -4,10 +4,9 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=19&duration=3000&pause=1000&color=56D4DD&center=true&vCenter=true&width=700&lines=Quantitative+Researcher+%26+Engineer;MSc+Financial+Engineering+%40+WorldQuant+University;Founder+of+QuantSingularity;Open+to+Quant+Finance+%26+ML-in-Finance+Roles)](https://git.io/typing-svg)
 
-![Status](https://img.shields.io/badge/status-open_to_opportunities-56D364?style=for-the-badge)&nbsp;&nbsp;
-![Profile Views](https://komarev.com/ghpvc/?username=abrar2030&style=for-the-badge&color=blueviolet&label=Profile+Views&abbreviated=true)&nbsp;&nbsp;
 [![Website](https://img.shields.io/badge/Website-Visit-56D4DD?style=for-the-badge)](https://abrar2030.github.io/)&nbsp;&nbsp;
 [![QuantSingularity](https://img.shields.io/badge/QuantSingularity-Live_Site-E8A33D?style=for-the-badge)](https://quantsingularity.github.io/Ledger/)
+![Profile Views](https://komarev.com/ghpvc/?username=abrar2030&style=for-the-badge&color=blueviolet&label=Profile+Views&abbreviated=true)&nbsp;&nbsp;
 
 </div>
 
